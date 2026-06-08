@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sachin Tendulkar - The Little Master</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Sachin Tendulkar</h1>
+    <p>India's greatest batsman, "The Little Master", and the highest run-scorer in international cricket history.</p>
+  </header>
+
+  <main class="hero">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Sachin_Tendulkar.jpg" alt="Sachin Tendulkar batting" />
+    <div class="hero-content">
+      <h2>Legend of the game</h2>
+      <p>Sachin Ramesh Tendulkar made his international debut at age 16 and became an icon of world cricket. His technique, discipline, and sportsmanship continue to inspire millions.</p>
+      <div class="stats-grid">
+        <div class="stat">
+          <strong>24+ years</strong>
+          <span>International career</span>
+        </div>
+        <div class="stat">
+          <strong>34,357</strong>
+          <span>Total international runs</span>
+        </div>
+        <div class="stat">
+          <strong>100</strong>
+          <span>International centuries</span>
+        </div>
+        <div class="stat">
+          <strong>1st</strong>
+          <span>Player to score 100 international tons</span>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <section class="section">
+    <div class="card">
+      <h3>Early life</h3>
+      <p>Born on April 24, 1973, in Mumbai, Sachin began training under coach Ramakant Achrekar. He quickly rose through the ranks with a prolific domestic career and was selected for the Indian national team in 1989.</p>
+    </div>
+  </section>
+
+  <section class="section section-grid">
+    <div class="card">
+      <h3>Batting record</h3>
+      <ul>
+        <li>Most runs in Test cricket: 15,921</li>
+        <li>Most runs in ODI cricket: 18,426</li>
+        <li>Most international centuries: 100</li>
+        <li>First player to score a double century in ODIs</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Major achievements</h3>
+      <ul>
+        <li>Arjuna Award (1994)</li>
+        <li>Khel Ratna (1997–98)</li>
+        <li>Padma Shri (1999), Padma Vibhushan (2008)</li>
+        <li>Bharat Ratna (2014)</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="card">
+      <h3>Career timeline</h3>
+      <p>1989: ODI debut against Pakistan</p>
+      <p>1990: Test debut against Pakistan</p>
+      <p>1998: Masterclass in Sharjah and rise to worldwide fame</p>
+      <p>2011: World Cup winner with India</p>
+      <p>2013: Retirement from international cricket</p>
+    </div>
+  </section>
+
+  <footer>
+    © 2026 Sachin Tendulkar tribute page
+  </footer>
+</body>
+</html>
