@@ -69,7 +69,16 @@ body {
     }
 }
 
+/* Photo and Backup Placeholder Settings */
 .profile-img-placeholder {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 4px solid #f97316;
+    border-radius: 50%;
+}
+
+.profile-img-backup {
     width: 150px;
     height: 150px;
     background-color: #1e1e24;
